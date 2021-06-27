@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name plain60-c-rescue)(type Legacy)(uri ${KIPRJMOD}/plain60-c-rescue.lib)(options "")(descr ""))
+  (lib (name alexbarb-rescue)(type Legacy)(uri ${KIPRJMOD}/alexbarb-rescue.lib)(options "")(descr ""))
+)

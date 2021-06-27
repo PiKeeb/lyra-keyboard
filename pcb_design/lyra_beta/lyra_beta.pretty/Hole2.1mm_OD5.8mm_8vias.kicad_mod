@@ -1,0 +1,17 @@
+(module Hole2.1mm_OD5.8mm_8vias (layer F.Cu) (tedit 5E6A4DC3)
+  (fp_text reference S1 (at 0 -1.778) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_text value Screw (at 0 1.778) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (pad "" thru_hole circle (at 0 0 270) (size 5.8 5.8) (drill 2.1) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at -2.032 0) (size 0.6 0.6) (drill 0.4) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at -1.436841 1.436841 45) (size 0.6 0.6) (drill 0.4) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 0 2.032 90) (size 0.6 0.6) (drill 0.4) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 1.436841 1.436841 135) (size 0.6 0.6) (drill 0.4) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 2.032 0 180) (size 0.6 0.6) (drill 0.4) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 1.436841 -1.436841 225) (size 0.6 0.6) (drill 0.4) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 0 -2.032 270) (size 0.6 0.6) (drill 0.4) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at -1.436841 -1.436841 315) (size 0.6 0.6) (drill 0.4) (layers *.Cu *.Mask))
+)

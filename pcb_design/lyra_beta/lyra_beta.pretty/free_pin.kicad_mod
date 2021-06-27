@@ -1,0 +1,9 @@
+(module footprints:free_pin (layer F.Cu) (tedit 5C290DA4)
+  (fp_text reference H2 (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value B0 (at -1.785943 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+)
