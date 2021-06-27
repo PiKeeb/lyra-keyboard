@@ -1,7 +1,10 @@
 # lyra-keyboard
 Lyra keyboard
+
 [![creativecommons-by-sa](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by/3.0/)
+
 Case design by **alexbarb**
+
 PCB design by **KGOH** & **ILWrites**
 
 ![Lyra](https://i.imgur.com/WdYmnhY.png)
