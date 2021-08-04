@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 4.2,
-          "height": 5.8,
-          "width": 5.8
+          "drill": 0.0,
+          "height": 2.4,
+          "width": 2.55
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -108,7 +108,8 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997
+        "min_via_diameter": 0.39999999999999997,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [
         0.0,
@@ -302,6 +303,7 @@
     ],
     "rule_severities": {
       "bus_definition_conflict": "error",
+      "bus_entry_needed": "error",
       "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
@@ -378,7 +380,7 @@
       }
     ],
     "meta": {
-      "version": 0
+      "version": 1
     },
     "net_colors": null
   },
@@ -394,6 +396,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
+    "annotate_start_num": 0,
     "drawing": {
       "default_bus_thickness": 12.0,
       "default_junction_size": 36.0,
@@ -420,7 +423,8 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0
+      "model_mode": 0,
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
